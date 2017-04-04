@@ -7,7 +7,7 @@
  """ 
   
   
-phrase = input("what phrase Would you like to use in the program?")
+phrase = input("W rite a three word phrase")
 doublereverse = (phrase[::-1])
 print (doublereverse)
 
